@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>eu.freeminds.sample</groupId>
-  <artifactId>IOT</artifactId>
-  <version>3.0.0</version>
+  <groupId>eu.freeminds.iot</groupId>
+  <artifactId>iot</artifactId>
+  <version>1.0.0</version>
 
   <name>Sample Docker Image for Java</name>
 
